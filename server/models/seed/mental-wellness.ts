@@ -1,6 +1,6 @@
 export default [
   {
-    name: "Ali Forney Drop In Center",
+    name: "Dylan Graulich Money Maker Forney Drop In Center",
     address: "321 W 125th St, New York, NY 10027",
     borough: "Manhattan",
     description:
