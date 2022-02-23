@@ -89,7 +89,7 @@ function AuthController() {
         logger.info("AuthController::refresh::success");
         return res.status(200).json({ message: "success", user, token });
       } catch (e) {
-        logger.info(`AuthController:logout::error:: ${e}`);
+        logger.info(`AuthController:refresh::error:: ${e}`);
         return res.status(400).json({ error: `${e}` });
       }
     },

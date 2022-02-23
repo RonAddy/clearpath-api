@@ -17,7 +17,7 @@ export interface AuthServiceI {
   createSession(email: string, password: string): any;
   generateToken(userId: string, isInternal: boolean): any;
   isInternalUser(token: string): any;
-  isAuthenticated(req: Request): boolean;
+  isAuthenticated(req: Request, isFromLogin?: boolean): boolean;
   attachSignedCookie(res: Response, token: string): void;
   isTokenExpired(jwt: Jwt): boolean;
   refreshFromSession(req: Request);
@@ -68,18 +68,11 @@ class AuthService implements AuthServiceI {
     const tokensMatch = signedCookieJWT === bearerToken;
     const missingToken = !signedCookieJWT || !bearerToken;
 
-    this.logger.info(`AuthService::isAuthenticated:: Tokens signedCookieJWT--- ${signedCookieJWT}`);
-    this.logger.info(`AuthService::isAuthenticated:: Tokens bearerToken --- ${bearerToken}`);
-
     if (!tokensMatch || missingToken) {
-      // this.logger.error("AuthService::isAuthenticated:: could not authenticate!");
-
       if (isMobileClient && bearerToken) {
         //Hack to get mobile working. Mobile clients do not have signedCookies
-        this.logger.info(`AuthService::isAuthenticated:: Is Mobile --- Token:${bearerToken}`);
         return true;
       }
-
       return false;
     }
     const tokens = [signedCookieJWT, bearerToken];
@@ -95,8 +88,6 @@ class AuthService implements AuthServiceI {
       }
       break;
     }
-
-    this.logger.info("AuthService::isAuthenticated:: PassChecks ---", passChecks);
 
     return passChecks;
   }
@@ -132,14 +123,20 @@ class AuthService implements AuthServiceI {
   }
 
   public async refreshFromSession(req: Request) {
-    const signedCookieJWT = req.signedCookies[this.#tokenIdentifier];
-    //@ts-ignore
-    const verifiedToken: Jwt = jwt.verify(signedCookieJWT, this.#JWTSignature, { complete: true });
-    const userId = verifiedToken.payload.user.id;
+    try {
+      const isMobileClient = req.useragent.isMobile;
+      const requestToken = isMobileClient ? req.headers.authorization : req.signedCookies[this.#tokenIdentifier];
 
-    const userDetails = await this.UserService.getById(userId);
+      //@ts-ignore
+      const verifiedToken: Jwt = jwt.verify(bearerToken, this.#JWTSignature, { complete: true });
+      const userId = verifiedToken.payload.user.id;
+      const userDetails = await this.UserService.getById(userId);
 
-    return { user: this._sanitizeData(userDetails), token: signedCookieJWT };
+      return { user: this._sanitizeData(userDetails), token: requestToken };
+    } catch (e) {
+      this.logger.error(`AuthService::refreshFromSession::failed -- ${e}`);
+      throw new Error(`AuthService::refreshFromSession:: Could not to refresh session!`);
+    }
   }
 
   public async register(email: string, password: string, firstName: string): Promise<any> {
