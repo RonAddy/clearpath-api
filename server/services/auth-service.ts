@@ -128,7 +128,7 @@ class AuthService implements AuthServiceI {
       const requestToken = isMobileClient ? req.headers.authorization : req.signedCookies[this.#tokenIdentifier];
 
       //@ts-ignore
-      const verifiedToken: Jwt = jwt.verify(bearerToken, this.#JWTSignature, { complete: true });
+      const verifiedToken: Jwt = jwt.verify(requestToken, this.#JWTSignature, { complete: true });
       const userId = verifiedToken.payload.user.id;
       const userDetails = await this.UserService.getById(userId);
 
