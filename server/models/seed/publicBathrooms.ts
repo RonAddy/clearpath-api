@@ -7259,5 +7259,2145 @@ export default [
 	 long: -74.00595676, 
 	 tags: ["Bathrooms"]
 },
+{
+	 name: "Just Salad", 
+	 address: "325 Hudson St", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.72674247, 
+	 long: -74.00792297, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "663 Lexington Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75985435, 
+	 long: -73.969895, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "106 Liberty Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70982336, 
+	 long: -74.01200046, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2630 Jerome Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.86699507, 
+	 long: -73.89775221, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1212 East Gunhill Road", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.87283296, 
+	 long: -73.85218681, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "600 3 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74897277, 
+	 long: -73.9757828, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "233 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.71225833, 
+	 long: -74.00789239, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "151 West 34 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75050916, 
+	 long: -73.98947917, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "279 East 149 Street", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81715584, 
+	 long: -73.92185081, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1275 Fulton Street", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.68043318, 
+	 long: -73.95032484, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "315 Park Avenue South", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74060295, 
+	 long: -73.98604529, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1380 Broadway", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.68924436, 
+	 long: -73.92164793, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "13 Hillel Place", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63262634, 
+	 long: -73.94802595, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "La Colombe", 
+	 address: "601 West 27 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 7 am - 6 pm  ; Saturday- Sunday 9 am - 5 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75155252, 
+	 long: -74.00552578, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1540 Westchester Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82865938, 
+	 long: -73.87809268, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "300 East 204 Street", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.87295716, 
+	 long: -73.87855715, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1403 Mermaid Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.57696417, 
+	 long: -73.98174547, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "321 West 49 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.76196831, 
+	 long: -73.98728619, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2065 Jerome Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.85430572, 
+	 long: -73.90689931, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1625 Webster Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.84170526, 
+	 long: -73.9043112, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2870 3 Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81639216, 
+	 long: -73.91702864, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1886 3 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.79040273, 
+	 long: -73.94553324, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1642 Pitkin Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.66941219, 
+	 long: -73.91245745, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Crif Dogs", 
+	 address: "113 St Marks Place", 
+	 borough: "Manhattan", 
+	 operationTime: "11:30 am - 2 am", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.72729615, 
+	 long: -73.98457966, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1656 Utica Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63188281, 
+	 long: -73.92827257, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3660 East Tremont Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82757806, 
+	 long: -73.82327208, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1101 East Tremont Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.83999138, 
+	 long: -73.87711772, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2028 Rockaway Parkway", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63344102, 
+	 long: -73.88931327, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "36 West Fordham Road", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.86268476, 
+	 long: -73.90283477, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "2848 Church Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6507294, 
+	 long: -73.95079752, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1982 Westchester Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8334893, 
+	 long: -73.85823721, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3279 3Rd Ave @164Th St E", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8250699, 
+	 long: -73.90830619, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "6413 14 Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.62510369, 
+	 long: -73.99883282, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1600 Boston Road", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.83582483, 
+	 long: -73.89067017, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2154 Nostrand Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63242031, 
+	 long: -73.94765502, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "160 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70948593, 
+	 long: -74.0102402, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King, Popeyes", 
+	 address: "8516 5 Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.62196624, 
+	 long: -74.02581716, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "4174 White Plains Road", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.89287909, 
+	 long: -73.85764709, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "875 Garrison Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81676695, 
+	 long: -73.89237794, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1851 Bruckner Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82590815, 
+	 long: -73.86261831, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "106 Fulton Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70972223, 
+	 long: -74.00679196, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "6007 Broadway", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.89072865, 
+	 long: -73.89768301, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1515 Williamsbridge Road", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.84476341, 
+	 long: -73.84655322, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2797 Linden Boulevard", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.66974539, 
+	 long: -73.86082518, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Popeyes", 
+	 address: "557 Grand Concourse", 
+	 borough: "Bronx", 
+	 operationTime: "Sunday - Thursday 9:30 am - 3:30 am ; Friday- Saturday 9:30 am - 4:30 am", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81905041, 
+	 long: -73.92709095, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2800 Atlantic Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.67648347, 
+	 long: -73.89090715, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "971 Flatbush Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.64787775, 
+	 long: -73.95815824, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King, Cinnabon", 
+	 address: "1313 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74997104, 
+	 long: -73.9879237, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "5765 Broadway", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.88371918, 
+	 long: -73.90145135, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Blue Bottle Coffee", 
+	 address: "396 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6:30 am - 6 pm; Saturday - Sunday 8 am - 6 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.71848096, 
+	 long: -74.00264427, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "146 Delancey Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.71802733, 
+	 long: -73.98663805, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "140 8 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74152878, 
+	 long: -74.00121253, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "1471 Third Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.77695218, 
+	 long: -73.95532913, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2010 Bartow Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.86905394, 
+	 long: -73.83064586, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "599 East Tremont Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.84643042, 
+	 long: -73.89350807, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "16 Beaver Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70497606, 
+	 long: -74.01237469, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "53 East 8 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.73111223, 
+	 long: -73.99363522, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "430 86 Street", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.62235009, 
+	 long: -74.02764365, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "2 East 39 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75146342, 
+	 long: -73.98204034, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "90 Broad Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70394685, 
+	 long: -74.01159185, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "325 Hudson St", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.72674247, 
+	 long: -74.00792297, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3550 Conner Street", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8852923, 
+	 long: -73.82732412, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "557 Grand Concourse", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81905041, 
+	 long: -73.92709095, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "320 Park Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75744266, 
+	 long: -73.97379805, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "291 7 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74630177, 
+	 long: -73.99402715, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "5407 Kings Plz", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.61123399, 
+	 long: -73.92026317, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1590 Hutchinson River Parkway", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.84307298, 
+	 long: -73.8368348, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "750 3 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75371493, 
+	 long: -73.97230885, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "606 Neptune Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.57991906, 
+	 long: -73.97508115, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "599 Grand Concourse", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81985438, 
+	 long: -73.9267107, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "977 Southern Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82227232, 
+	 long: -73.89175116, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "2164 86 Street", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6023191, 
+	 long: -73.99444341, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "6620 Bay Parkway", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.61281396, 
+	 long: -73.98253161, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "98 Maiden Lane", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70688413, 
+	 long: -74.00702611, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "262 Canal Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.71870331, 
+	 long: -74.00093794, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "521 East 149 Street", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.81471035, 
+	 long: -73.91427064, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "701 Utica Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6561812, 
+	 long: -73.93084489, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "7124 3 Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63397445, 
+	 long: -74.02677658, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2505 Southern Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.85651032, 
+	 long: -73.88078521, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "2056 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.77765938, 
+	 long: -73.98204769, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "327 West 42 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.75763467, 
+	 long: -73.9907414, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Black Fox Coffee Co", 
+	 address: "70 Pine Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 7 am - 5 pm; Saturday - Sunday 8 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70630767, 
+	 long: -74.00789529, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "1306 1 Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.76666541, 
+	 long: -73.95681258, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1865 Bruckner Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82600607, 
+	 long: -73.86187376, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "819 Pennsylvania Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.65766982, 
+	 long: -73.88993248, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3509 Webster Avenue", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.87911679, 
+	 long: -73.87140745, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1600 Bruckner Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.82388526, 
+	 long: -73.87460388, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "101 East 170 Street", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.83950474, 
+	 long: -73.91580706, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "401 Park Avenue South", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.74322121, 
+	 long: -73.98413207, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "154 East 116 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.798407, 
+	 long: -73.94114554, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "315 Madison Avenue", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.7526542, 
+	 long: -73.97937634, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "55 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.70663113, 
+	 long: -74.01263108, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "85 Bruckner Boulevard", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.80613556, 
+	 long: -73.92579752, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "880 Coney Island Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.63598774, 
+	 long: -73.96785776, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "1350 Avenue Of The Americas", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.76272453, 
+	 long: -73.97834079, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "943 Flatbush Avenue", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Sunday 6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.64872319, 
+	 long: -73.95829825, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Just Salad", 
+	 address: "330 West 34 Street", 
+	 borough: "Manhattan", 
+	 operationTime: "Mon - Friday: 10:30 am - 4 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.752612, 
+	 long: -73.99450301, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "2900 Veterans Rd.", 
+	 borough: "Staten Island", 
+	 operationTime: "7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.5285885, 
+	 long: -74.2327892, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "610 Exterior St", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Saturday 9 am - 10 pm ; Sunday 9 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.821385, 
+	 long: -73.9297894, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "1932 Broadway At 65Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 10 pm ; Sunday 9 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7726002, 
+	 long: -73.9817695, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "270 Greenwich St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 10 pm ; Sunday 9 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7155341, 
+	 long: -74.0120518, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Barnes And Noble", 
+	 address: "2245 Richmond Avenue", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 10 am - 8 pm; Sunday 11 am - 6 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.5923055, 
+	 long: -74.1624485, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "620 6Th Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 10 pm ; Sunday 9 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7400605, 
+	 long: -73.9945934, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Lowes", 
+	 address: "2171 Forest Ave", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm; Sunday 7 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6277703, 
+	 long: -74.16198, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Raceway", 
+	 address: "2920 W 23Rd St", 
+	 borough: "Brooklyn", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Gas Station"] , 
+	 lat: 40.5752705, 
+	 long: -73.9901782, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Sheepshead Bay Marketplace", 
+	 address: "1717 Avenue Z Brooklyn Ny", 
+	 borough: "Brooklyn", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.5884686, 
+	 long: -73.9518254, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Kings Plaza Mall", 
+	 address: "5100 Kings Plaza Brooklyn", 
+	 borough: "Brooklyn", 
+	 operationTime: "10 - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6104056, 
+	 long: -73.9208363, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Lowes", 
+	 address: "5602 Avenue U", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 8 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6114521, 
+	 long: -73.9188105, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "2700 Veterans Rd.", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 9 am - 9:30 pm ; Sunday 9 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.530584, 
+	 long: -74.2280329, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Exxon", 
+	 address: "1760 Flatbush Ave, Brooklyn Ny", 
+	 borough: "Brooklyn", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Gas Station"] , 
+	 lat: 40.6269166, 
+	 long: -73.9416482, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "2655 Richmond Avenue", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 9 am - 9:30 pm ; Sunday 9 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.5818414, 
+	 long: -74.1668656, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bed Bath & Beyond", 
+	 address: "459 Gateway Drive", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Saturday 9 am - 9:30 pm ; Sunday 9 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6524063, 
+	 long: -73.8710342, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "519 Gateway Drive", 
+	 borough: "Broooklyn", 
+	 operationTime: "Monday - Friday 8 am - 11 pm ; Saturday 8 am - 11 pm ; Sunday 8 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6529575, 
+	 long: -73.8700236, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "5765 Broadway & 236Th", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8840927, 
+	 long: -73.9016736, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "40 W 225Th St", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Saturday 8 am - 11 pm; Sunday 8 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.8734127, 
+	 long: -73.9077537, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1419 Saint Nicholas Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8490825, 
+	 long: -73.9342567, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "3451 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8237879, 
+	 long: -73.9527836, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Starbucks", 
+	 address: "2929 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "5:30 am - 10 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8071034, 
+	 long: -73.9649148, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "119Th St & Coastal Highway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 38.4243374, 
+	 long: -75.0559039, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "130 West 125Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8081125, 
+	 long: -73.9470784, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "154 East 116 St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.798328, 
+	 long: -73.9414585, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "517 E 117Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 8 am - 11 pm; Sunday 8 am - 10 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.795386, 
+	 long: -73.9310222, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "36 W Fordham Rd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8624921, 
+	 long: -73.9028908, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "215/213 E Fordham Rd", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8625033, 
+	 long: -73.8963512, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "372 E Fordham Rd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8615868, 
+	 long: -73.8924722, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2630 Jerome Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8669808, 
+	 long: -73.8973789, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2505 Southern Blvd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8566787, 
+	 long: -73.8811351, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "300 E 204Th St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8728379, 
+	 long: -73.8788209, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3509 Webster Ave & Gunhill", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8791183, 
+	 long: -73.8717233, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "4174 White Plains Rd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8927549, 
+	 long: -73.8574127, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "274 E 241St St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.9014983, 
+	 long: -73.8684846, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "4275 White Plains Rd", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8955228, 
+	 long: -73.8565857, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "3550 Conner St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8856346, 
+	 long: -73.8268771, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Stop & Shop", 
+	 address: "691 Co Op City Blvd", 
+	 borough: "Bronx", 
+	 operationTime: "7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.8807245, 
+	 long: -73.8251811, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Stop & Shop", 
+	 address: "2136 Bartow Ave", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Saturday 7 am - 11 pm ; Sunday 7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.8682642, 
+	 long: -73.8266056, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2010 Bartow Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8686931, 
+	 long: -73.8305343, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "3500 Boston Rd", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8769108, 
+	 long: -73.8459776, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1212 E Gun Hill Rd & Tenbroeck Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.872624, 
+	 long: -73.8523129, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1745 University Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8502864, 
+	 long: -73.9162796, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "2036-48 Jerome Ave", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8534682, 
+	 long: -73.9073363, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2065 Jerome Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8543176, 
+	 long: -73.9072773, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "400 E Tremont Ave", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8474235, 
+	 long: -73.9008093, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1625 Webster Ave & Clay", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8417859, 
+	 long: -73.9047388, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "599 Tremont Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8467087, 
+	 long: -73.8934216, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1600 Boston Rd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8355029, 
+	 long: -73.8905806, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "101 E 170Th St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8397027, 
+	 long: -73.9155447, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1380 Jerome Ave", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8396028, 
+	 long: -73.9176804, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "86 E 167Th St-Satellite", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8350303, 
+	 long: -73.9199309, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "51-67 161 St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.828054, 
+	 long: -73.9252904, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "103-107 E 161St St", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8276467, 
+	 long: -73.9241488, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "212 E 161 St St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8252945, 
+	 long: -73.9211395, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "700 Exterior St", 
+	 borough: "Bronx", 
+	 operationTime: "Monday - Saturday 8 am - 11 pm; Sunday 8 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.8239106, 
+	 long: -73.92992, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "2750 Veterans Rd.", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 7 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.5290214, 
+	 long: -74.2281189, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "513 E 138Th St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8076948, 
+	 long: -73.9187827, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "982 Southern Blvd", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8225903, 
+	 long: -73.8913615, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "212 E 161St St", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8252945, 
+	 long: -73.9211395, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1317 Castlehill Ave", 
+	 borough: "Bronx", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8345906, 
+	 long: -73.8522178, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "2501 Forest Ave", 
+	 borough: "Staten Island", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 7 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6292617, 
+	 long: -74.1726214, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "3451 Broadway Ny", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8237879, 
+	 long: -73.9527836, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "130 W 125Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.8081125, 
+	 long: -73.9470784, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Whole Foods Market", 
+	 address: "808 Columbus", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7939667, 
+	 long: -73.9671163, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Barnes And Noble", 
+	 address: "2289 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "9 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7862449, 
+	 long: -73.978733, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Whole Foods Market", 
+	 address: "1551 3Rd Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7796679, 
+	 long: -73.9529504, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "86Th St Station (2Nd Ave Subway)", 
+	 address: "300 E 86Th Street", 
+	 borough: "Manhattan", 
+	 operationTime: null, 
+	 facilityType: ["Transportation Hub"] , 
+	 lat: 40.7776204, 
+	 long: -73.9515728, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "226 E 86Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.7781315, 
+	 long: -73.9529963, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Le Pain Quotidien", 
+	 address: "2 W 69Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 5 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.7730269, 
+	 long: -73.9743481, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "5700 Avenue U", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 7 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6126027, 
+	 long: -73.9166929, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Time Warner Center", 
+	 address: "10 Columbus Circle", 
+	 borough: "Manhattan", 
+	 operationTime: "10 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7685526, 
+	 long: -73.9831866, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Nordstrom", 
+	 address: "225 W 57Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 10 am - 8 pm ; Sunday 11 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7662427, 
+	 long: -73.9812435, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bloomingdales", 
+	 address: "1000 3Rd Ave 59Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 11 am - 8 pm ; Sunday 11 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7624778, 
+	 long: -73.967158, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "579 Gateway Drive", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 7 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6513926, 
+	 long: -73.8728316, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Barnes And Noble", 
+	 address: "160 E 54Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 7 am - 9 pm ; Saturday 10 am - 9 pm ; Sunday 11 am - 6 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.758362, 
+	 long: -73.9698216, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "251 Avenue Of The Americas", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.7286868, 
+	 long: -74.0028938, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Ny Marriot Marquis", 
+	 address: "1535 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 11 pm (doors lock at 11)", 
+	 facilityType: ["Hotel"] , 
+	 lat: 40.7585862, 
+	 long: -73.9858202, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Sunac Natural Market", 
+	 address: "600 W 42Nd St", 
+	 borough: "Manhattan", 
+	 operationTime: "5 AM - 10 PM", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7607277, 
+	 long: -73.9986643, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Tj Maxx", 
+	 address: "14 Wall St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 9 pm ; Sunday 10 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7076193, 
+	 long: -74.0105948, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Brookfield Place", 
+	 address: "230 Vessey St", 
+	 borough: "Manhattan", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7140744, 
+	 long: -74.0153339, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "The Oculus At One World Trade", 
+	 address: "185 Greenwich St", 
+	 borough: "Manhattan", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7118358, 
+	 long: -74.01183, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "255 Greenwich St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Sunday 8 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7143346, 
+	 long: -74.0109096, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "2560 Bruckner Blvd", 
+	 borough: "BRONX", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 8 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.827371, 
+	 long: -73.839392, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Marshalls", 
+	 address: "197 E Houston", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9:30 am - 9:30 pm ; Sunday 9 am - 9 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.7223519, 
+	 long: -73.9875872, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "273 Canal St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7191541, 
+	 long: -74.0012763, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Tj Maxx", 
+	 address: "483 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 9 pm ; Sunday 10 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7217048, 
+	 long: -74.0003355, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Bloomingdales", 
+	 address: "504 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 11 am - 8 pm ; Sunday 11 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7221565, 
+	 long: -73.9992178, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Housing Works Bookstore", 
+	 address: "126 Crosby St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 12 pm - 7 pm; Saturday 12 pm - 4 pm; Sunday 12 pm - 5 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7246035, 
+	 long: -73.9965755, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "East River Track", 
+	 address: "1234 E 6Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "6 am - 1 am", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7190656, 
+	 long: -73.9739907, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Little Island", 
+	 address: "Pier 55 At Hudson River Park", 
+	 borough: "Manhattan", 
+	 operationTime: "Ticket (Free) needed after 3, Closes at 11", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7330699, 
+	 long: -74.011028, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Trader Joe'S Wine Shop", 
+	 address: "138 E 114 St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 12 pm ; Sunday 12 pm - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.793807, 
+	 long: -73.934085, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Strand Bookstore", 
+	 address: "828 Broadway", 
+	 borough: "Manhattan", 
+	 operationTime: "10 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7333156, 
+	 long: -73.9909537, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Whole Foods Market", 
+	 address: "440 E 14Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7303725, 
+	 long: -73.980822, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Nordstrom Rack", 
+	 address: "60 E 14Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 10 am - 9 pm ; Sunday 11 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7343917, 
+	 long: -73.9903092, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burlington Coat Factory", 
+	 address: "4 Union Square E", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7346727, 
+	 long: -73.9896514, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Barnes And Noble", 
+	 address: "33 E 17Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 9 pm ; Sunday 10 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7372437, 
+	 long: -73.9893438, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "980 3Rd Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 7 am - 9 pm ; Sunday 8 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7613533, 
+	 long: -73.9670391, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Tj Maxx", 
+	 address: "620 6Th Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 9 am - 9:30 pm ; Sunday 9 am - 9 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7400605, 
+	 long: -73.9945934, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Home Depot", 
+	 address: "40 W 23Rd St", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 6 am - 10 pm ; Sunday 8 am - 8 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7418476, 
+	 long: -73.9913589, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Eatly Nyc Flatiron", 
+	 address: "200 5Th Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "9 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7419978, 
+	 long: -73.989942, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Ace Hotel Nomad", 
+	 address: "20 W 29Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "7 am - 11 pm (doors lock at 11)", 
+	 facilityType: ["Hotel"] , 
+	 lat: 40.7456899, 
+	 long: -73.9881963, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Nordstrom Rack", 
+	 address: "865 6Th Ave", 
+	 borough: "Manhattan", 
+	 operationTime: "Monday - Saturday 10 am - 9 pm ; Sunday 11 am - 7 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7478362, 
+	 long: -73.9895227, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Macy's", 
+	 address: "151 W 34Th St", 
+	 borough: "Manhattan", 
+	 operationTime: "Sunday - Thursday 10 am - 9 pm ; Friday - Saturday 10 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.7508631, 
+	 long: -73.9890634, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "2413 86Th St & 24Th", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.5993208, 
+	 long: -73.9890175, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1983 86Th & 20Th", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6048284, 
+	 long: -73.9982701, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "5212-15 5Th Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6438654, 
+	 long: -74.011949, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "5121 5Th Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.644003, 
+	 long: -74.0111456, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "4101 4Th Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6512257, 
+	 long: -74.0071288, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "6419 18Th Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6191799, 
+	 long: -73.989775, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Raceway", 
+	 address: "2920 W 23Rd St", 
+	 borough: "Brooklyn", 
+	 operationTime: "24 hours", 
+	 facilityType: ["Gas Station"] , 
+	 lat: 40.5752705, 
+	 long: -73.9901782, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Target", 
+	 address: "1598 Flatbush Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 8 am - 11pm ; Saturday 8 am - 11 pm Sunday 8 am - 10 pm", 
+	 facilityType: ["Retail"] , 
+	 lat: 40.6315059, 
+	 long: -73.9467515, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1930 Nordstrand Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6384054, 
+	 long: -73.9485069, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "1940 Linden Blvd", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6584815, 
+	 long: -73.8898916, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "15 Jamaica Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6775317, 
+	 long: -73.8977463, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1101 Rutland Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6648148, 
+	 long: -73.9235084, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Mcdonald's", 
+	 address: "1331 Eastern Parkway", 
+	 borough: "Brooklyn", 
+	 operationTime: "6 am - 11 pm", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6682212, 
+	 long: -73.924265, 
+	 tags: ["Bathrooms"]
+},
+{
+	 name: "Burger King", 
+	 address: "8002 Foster Ave", 
+	 borough: "Brooklyn", 
+	 operationTime: "Monday - Friday 6 am - 11 pm  ; Saturday- Sunday 6 am - 1 am  ", 
+	 facilityType: ["Food/Drink"] , 
+	 lat: 40.6405424, 
+	 long: -73.9183234, 
+	 tags: ["Bathrooms"]
+},
 
 ];
